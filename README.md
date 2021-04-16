@@ -1,4 +1,4 @@
-![welcome](github-readme-header.png?raw=true) 
+![welcome](github-readme-header.png?raw=true)
 # Welcome to my Github! 👋
 
 I'm a former chemistry student that found this new love for coding in 2020 💻🧪
