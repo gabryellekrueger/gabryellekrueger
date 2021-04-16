@@ -1,4 +1,4 @@
-[1.png](gabryellekrueger.github.com/gabryellekrueger/img/1.jpg)
+![alt text](https://github.com/gabryellekrueger/gabryellekrueger/blob/main/1.jpg?raw=true)
 # Welcome to my Github! 👋
 
 I'm a former chemistry student that found this new love for coding in 2020 💻🧪
