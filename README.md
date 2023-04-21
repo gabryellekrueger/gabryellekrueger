@@ -2,7 +2,7 @@
 
 # Welcome to my Github! 👋
 
-I'm a former chemistry student that found this new love for coding in 2020 💻🧪
+I'm a former chemistry student that found a love for coding in 2020 💻🧪
 
 I'm passionate about solving problems and learning. Always open to feedback, so feel free to contact me anytime!
 
